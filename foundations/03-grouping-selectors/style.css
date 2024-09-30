@@ -1,6 +1,17 @@
 .clickButton,
 .clickButton2{
 
-    
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
 
+
+}
+
+.clickButton {
+    background-color: black;
+    color: white;
+}
+
+.clickButton2{
+    background-color: yellow;
 }
